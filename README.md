@@ -1,7 +1,7 @@
 
 # Django registration system
 
-This is a project created in Django 4.1.3 to practice user registraction, log in, log our and admin panel management.
+This is a project created in Django 4.1.3 to practice user registraction, log in, log out and admin panel management.
 
 
 
